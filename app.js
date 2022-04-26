@@ -5,7 +5,7 @@ var names = ["Bulbasaur", "Ivysaur", "Venusaur", "Charmander", "Charmeleon", "Ch
 //en array med alla Pokémons namn från Kanto regionen
 
 
-temp()
+temp();
 
 function temp() {
     let i = Math.floor(Math.random() * names.length);
@@ -27,3 +27,14 @@ function temp() {
 
 //------------------------------------------------Randomizer delen av koden-------------------------------------------------------------//
 
+
+
+//------------------------------------------------ Knapp delen-------------------------------------------------------------//
+
+
+
+
+
+
+
+//------------------------------------------------ Knapp delen-------------------------------------------------------------//
